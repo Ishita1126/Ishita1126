@@ -10,7 +10,7 @@
 - 💡 I love building **projects** using **HTML, CSS, JS, and Python**
 - 💻 Practicing **DSA in Java, C++, and C#**
 - 🧠 Currently learning **ReactJS & Backend Development**
-- 📫 Email me at: [ishitahaldhar@gmail.com @gmail.com](mailto:arpitpandey0222@gmail.com)
+- 📫 Email me at: [ishitahaldhar@gmail.com ](mailto:arpitpandey0222@gmail.com)
 - 🔗 Connect on [LinkedIn]((https://linkedin.com/in/ishita-haldhar-b6152b27a))
 
 ---
