@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishita haldhar</h1>
-<h3 align="center">A passionate Frontend Developer and DSA enthusiast using Java, C++, and C#</h3>
+<h3 align="center">A passionate Frontend Developer and DSA enthusiast using Java, python , and C#</h3>
 
 ---
 
